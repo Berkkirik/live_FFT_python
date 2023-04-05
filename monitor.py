@@ -1,3 +1,6 @@
+#Class For serial plot
+
+
 import serial
 import numpy as np
 import matplotlib.pyplot as plt
