@@ -4,8 +4,9 @@
 #### For any question , do not hesitate to ask me a question or owner of code
 
 
-My contact mail : berkkirik.1999@gmail.com  or berk.kirik@outlook.com
+For windows , data visualization there are some easier way to learn this , you can check my profile (https://github.com/berkkirik)
 
+My contact mail : berkkirik.1999@gmail.com  or berk.kirik@outlook.com
 
 
 
